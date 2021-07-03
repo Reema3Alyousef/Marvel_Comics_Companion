@@ -5,7 +5,7 @@
 Made for comic lovers, this application allows users to track their reading progress through the immensely popular Marvel comics. Additionally, users can also display various facts about the comics or apply CRUD functions on their information through an aesthetically pleasing, easy-to-navigate interface.
 
 ## Demo 
-<img src="https://media2.giphy.com/media/yTKjh30w1WvJCLPetc/giphy.gif?cid=790b76118ab712bb88689719d8e574561256f38fd684adfb&rid=giphy.gif&ct=g" alt="demo" width=600>
+<img src="https://media1.giphy.com/media/em88Ipk6vrHLh0wRzc/giphy.gif?cid=790b7611085d10d23addf00a84294b73c25a190f4fe89796&rid=giphy.gif&ct=g" alt="demo" width=600>
 
 ### Wireframes
 [View here](https://imgur.com/a/hRt4Syo "Wireframes")
